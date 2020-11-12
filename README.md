@@ -1,4 +1,4 @@
-![Cover](https://github.com/RmTrnsc/RmTrnsc/main/img/profil.jpg)
+![Cover](https://github.com/RmTrnsc/RmTrnsc/img/profil.jpg)
 ### Hi there 👋
 
 <!--
