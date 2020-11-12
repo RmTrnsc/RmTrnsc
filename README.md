@@ -1,7 +1,14 @@
 ![Cover](https://github.com/RmTrnsc/RmTrnsc/blob/main/img/profil.jpg)
 <h1 align="right">Welcome on board👋</h1>
+
   <a title="linkedin" href="https://www.linkedin.com/in/romain-tournesac">
-  <img source="https://github.com/RmTrnsc/RmTrnsc/blob/main/img/linkedin_logo_square_icon_134016.png" width="130"/>
+  <img src="https://github.com/RmTrnsc/RmTrnsc/blob/main/img/linkedin_logo_square_icon_134016.png" width="60"/>
+  </a>
+  <a title="linkedin" href="https://www.linkedin.com/in/romain-tournesac">
+  <img src="https://github.com/RmTrnsc/RmTrnsc/blob/main/img/linkedin_logo_square_icon_134016.png" width="60"/>
+  </a>
+  <a title="linkedin" href="https://www.linkedin.com/in/romain-tournesac">
+  <img src="https://github.com/RmTrnsc/RmTrnsc/blob/main/img/linkedin_logo_square_icon_134016.png" width="60"/>
   </a>
 
 I'm a __full-stack develope__ in a dental prosthesis company in __France__
