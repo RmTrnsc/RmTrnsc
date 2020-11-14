@@ -10,6 +10,16 @@ I'm in charge of several projects:
 3. Similar to the first one with a few peculiarities as it is specific to only one laboratory
 4. An internal application for holiday requests, pay slips, badging, etc...
 
-<a title="linkedin" href="https://www.linkedin.com/in/romain-tournesac">
-  <img src="https://github.com/RmTrnsc/RmTrnsc/blob/main/img/linkedin_logo_square_icon_134016.png" width="60"/>
-</a>
+<h2 align='center'><b>My skills</b></h2>
+
+<p align='center'>
+  <img src='https://github.com/RmTrnsc/RmTrnsc/blob/main/img/skills.png'/>
+</p>
+
+<h2 align='center'><b>Contact me !</b></h2>
+
+<p align='center'>
+  <a title="linkedin" href="https://www.linkedin.com/in/romain-tournesac">
+    <img src="https://github.com/RmTrnsc/RmTrnsc/blob/main/img/linkedin_logo_square_icon_134016.png" width="60"/>
+  </a>
+</p>  
